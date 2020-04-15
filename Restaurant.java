@@ -349,4 +349,3 @@ public static void main(String[] args)
 
 }
 
-System.out.println(i + "\t\t\t" + sweets1[i][0] +"------>" + sweets1[i][1]);
